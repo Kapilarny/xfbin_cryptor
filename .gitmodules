@@ -1,0 +1,4 @@
+[submodule "external/nucc-cpp"]
+	path = external/nucc-cpp
+	url = https://github.com/Kapilarny/nucc-cpp-library/
+	branch = crypt
