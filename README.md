@@ -11,3 +11,13 @@ A simple tool to decrypt XFBIN files.
     ```
 2. Drag & drop the XFBIN file (or a directory containing XFBIN files) onto the `xfbin_cryptor.exe`.
 3. Profit!
+
+## Credits
+
+Huge thanks to [nucc-cpp](https://github.com/KojoBailey/nucc-cpp-library/)
+and it's creator [KojoBailey](https://github.com/KojoBailey/), this tool would not
+be possible without it!
+
+## Donations
+
+If you find this tool useful, consider supporting my work on [Ko-fi](https://ko-fi.com/kapilarny) or [PayPal](https://paypal.me/kapilarny).
